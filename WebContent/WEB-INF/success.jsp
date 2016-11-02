@@ -9,6 +9,6 @@
 <title>成功页面</title>
 </head>
 <body>
-欢迎您,${sessionScope.user }
+欢迎您,${sessionScope.user }，<a href="show">确定</a>
 </body>
 </html>
